@@ -1,4 +1,47 @@
+body {
+  background-color: rgb(46, 46, 46);
+  color: white;
+  font-family: "Otomanopee One", sans-serif;
+}
 .contenedor1 {
-    background-color: skyblue;
-    height: 50%;
+  background-color: rgb(65, 70, 133);
+  height: 600px;
+}
+.contenedor2 {
+  background-color: rgb(88, 119, 133);
+  height: 600px;
+}
+.contenedor3 {
+  background-color: rgb(88, 119, 133);
+  height: 300px;
+}
+.contenedor4 {
+  background-color: rgb(88, 119, 133);
+  height: 300px;
+}
+.contenedor {
+  margin: 1% 1% 1% 1%;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgb(168, 178, 187);
+}
+.img-redonda {
+  width: 180px;
+  height: 190px;
+  border-radius: 150px;
+  border: 1px solid white;
+}
+.contenedor-img {
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+.titulo2 {
+  text-align: center;
+}
+.social-containt {
+  padding: 1em;
+}
+.container-xp {
+  margin: 0;
+  padding: 0;
 }
